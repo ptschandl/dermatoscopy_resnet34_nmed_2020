@@ -1,0 +1,14 @@
+{
+ "ARCH": "resnet34",
+ "CLASSES": [
+  "akiec",
+  "bcc",
+  "bkl",
+  "df",
+  "mel",
+  "nv",
+  "vasc"
+ ],
+ "IMGSIZE_CROP": 224,
+ "MEAN_NORM": false
+}
